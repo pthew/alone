@@ -49,7 +49,7 @@ Afterwards, Manfred cleaned the blood off me and, much to my surprise, applied
 scented oils. Someone has taught the boy some good habits. 
 
 
-## Day N -- More fools
+## Day 2 -- More fools
 
 As Manfred and his companions rested and had dinner more peasants attacked us.
 I suspect that they were out looking for their missing friends and found the
@@ -83,12 +83,13 @@ I dispatched them quickly. They should have died of old age, but their
 luck ran out today.
 
 
-## Day N -- History and defeat
+## Day 3 -- History and defeat
 
 Manfred and his companions moved to a new camp to rest and treat their wounds.
 The saying goes "idle hands makes the devils work" -- I could see one of the
-group watching me as everyone else rested. His name is Falco. Was he
-planning to steal me? 
+group watching me as everyone else rested. His name is Falco. He has that
+greedy look behind his eyes that I've seen many times before. Was he planning
+to steal me? 
 
 I hope not. He was not what I would call hero-material.  If he did steal me,
 then I would have to kill him and hope that someone better finds me.  I
@@ -126,7 +127,7 @@ defeat her while he is still injured. We make a hasty retreat, hoping that she
 will find Falco delicious.
 
 
-## Day N -- Dark places and more revenge
+## Day 4 -- Dark places and more revenge
 
 Manfred decided to rest again today. The fights over the last two days have
 taken a toll and he just wants to rest and recover. 
@@ -182,9 +183,9 @@ that Manfred tried to rob and had tracked Manfred over the last week.
 We now have something in common. I have also been hunted by an enemy.
 
 
-## Day N -- Recovery and reminiscing again
+## Day 5 -- Recovery and reminiscing again
 
-Manfred didn't die, I'm surprised. The wound looked far worse that it was and
+Manfred didn't die,. The wound looked far worse that it was and
 the elves sewed his scalp back on and gave him some herbs to deal with the
 pain and speed his recovery.  He'll have good scar to show off when it fully
 heals.
@@ -216,13 +217,64 @@ chasms. The wound was too much and he slipped in the dark, falling into the
 lava. Just as I was born in the lava they died.
 
 
-## Day N -- Recovery and reminiscing again
+## Day 6 -- More history
+
+Manfred continues to recover. That's it. Nothing else happened today.
+
+I think the elves don't like me. They keep glancing at me, as if I was the one
+how was responsible for this. Perhaps I am. Manfred's discover of me was
+certainly the catalyst that produced his current injuries. Perhaps he should
+have left me in the catacombs. 
+
+Maybe I should blame Coppernight?  The old dwarf and I smashed our way into
+Harden (Manfred's ruins) only to be crushed by some fat troll to be buried
+under the rubble for 50 years. But that wasn't the longest time I've been been
+alone. What was his name? He was another dwarf, _Grim_ something. He
+deliberately buried me in the corpse field of the Undead King a few days after
+Grondell died.  I would have liked to be buried with Grondell in his tomb so
+we could be together forever, but what's-his-face blamed me for Grondell's
+death and decided that I should be hidden and never found. I would have liked
+to see his smug face when the children dug me up a century later! The little
+scoundrels were daring each other to enter the haunted fields and dig up a
+souvenir of the battle. The half-orc Sharn got the surprise of her life when I
+started talking to her. She was a bit of a favourite of mine, we were together
+for 30 or so years. I'll tell you about her a bit later. 
 
 
+## Day 7 -- Someone else's dreams
 
+Manfred continues to recover, but this was a bad day. A fever started early in
+the morning and continued into in the night.  Some of the gang went hunting
+and returned with same game in the afternoon. A good hearty meal raised
+people's spirits and the elves cooked up some rabbit broth for Manfred. They
+added some of their magic herbs and this seemed to calm him as he eventually
+fell asleep towards midnight.
 
+At one point the fever caused Manfred to relive some experience from the past
+and he grabbed my hilt and swung me about attacking some imaginary enemy.
+There was no danger to anyone as I had good control over the arm. I did get
+lucky: due to his weakened state I was able to get a good look into his mind.
+I said it before, knowing everything about your bearer is a priority.
 
+He had a sister just like me. And just like me, he had lost her too.
 
+Amongst all of his companions that have died, his sister was the one that
+haunts him. It was an arranged marriage between the sister and some rich
+merchant from another village, the father was trying to build his own little
+empire by marrying into more money. The sister has rebelled and Manfred's
+father has beaten her. Latter that day she ran away, but had taken a wrong
+path in the dark and ended up in a swamp where she slipped and fell into
+the dark waters.
+
+Manfred had waited a year to exact his revenge.  One cold winter's evening he
+took his father and the merchant out drinking.  When they were too drunk to
+know what was happening, Manfred led the pair to the swamp where he killed
+them and a very messy manor. I think that this is thing that I saw when were
+first met. That deep dark secret and the thirst for blood.
+
+## Fin
+
+The tower falls and I die.
 
 ## Epilogue
 
