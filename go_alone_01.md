@@ -46,14 +46,14 @@ the hammer's steel head.  They may think that they control me, but it is I who
 controls the dance.
 
 Afterwards, Manfred cleaned the blood off me and, much to my surprise, applied
-scented oils. Someone has taught the boy some good habits. 
+some oils to my blade. Someone has taught the boy some good habits. 
 
 
 ## Day 2 -- More fools
 
 As Manfred and his companions rested and had dinner more peasants attacked us.
 I suspect that they were out looking for their missing friends and found the
-bodies. They had tracked us to our camp and decided, foolishly, to extract
+bodies. They had tracked us to our camp and decided, foolishly, to extact
 some revenge. They were better organised than the rabble we first encountered.
 They came at us using the "bulls horn" formation: the main body in the centre
 and smaller detachments to the left and right. These "horns" will swing around
@@ -111,7 +111,7 @@ Damn it! What is happening to me? Again, while I was day dreaming of the past
 I missed something: I did not see Falco approach. He grabbed me and ran into
 the woods. 
 
-Manfred pursued us and managed to catch up just as we entered into a rocky
+Manfred pursued us and managed to catch up just as we entered a rocky
 grove. There was a brief struggle and Manfred wrestled me from Falco's
 grasp. Falco then grabbed a stone and swung it at Manfred several times.
 Manfred managed to dodge the first few but was hit by a glancing blow,
@@ -120,7 +120,7 @@ Manfred, I focused my power, took control of Manfred's arm and stuck Falco
 through the stone, shattering it and Falco's chest. I could feel X stirring
 and hoped that drawing some of his power did not wake him.
 
-Today just gets better and better. The rock grove we find ourselves in belongs
+Today just gets better and better. The grove we find ourselves in belongs
 to a troll. She is not happy with us disturbing her sleep and tries to crush
 us with a nearby tree. Luckily, Manfred see sense and concludes that we cannot
 defeat her while he is still injured. We make a hasty retreat, hoping that she
@@ -175,20 +175,19 @@ to react (she's an elf, what do you expect?) and even before the rider had clear
 the other side of the camp she has loosed half a dozen arrows, hitting the
 rider in the back. He fell from the horse and lay still at the edge of the camp. 
 
-Everyone finally started moving: Adoel and Aldaron went to Manfred's aide and
+Everyone finally started moving: Adoel and Eldaron went to Manfred's aide and
 the others pounced on the fallen rider. He was too far gone to get much
 information, but we did gather enough to know that he was part of the caravan
-that Manfred tried to rob and had tracked Manfred over the last week.
+that Manfred tried to rob and had been tracking Manfred over the last week.
 
 We now have something in common. I have also been hunted by an enemy.
 
 
 ## Day 5 -- Recovery and reminiscing again
 
-Manfred didn't die,. The wound looked far worse that it was and
-the elves sewed his scalp back on and gave him some herbs to deal with the
-pain and speed his recovery.  He'll have good scar to show off when it fully
-heals.
+Manfred didn't die. The wound looked far worse that it was and the elves sewed
+his scalp back on and gave him some herbs to deal with the pain and speed his
+recovery.  He'll have good scar to show off when it fully heals.
 
 Another day of doing nothing. Adoel had the rest of the group search the woods
 around the camp to see if there was any more unwanted visitors, but it looks
@@ -260,17 +259,17 @@ He had a sister just like me. And just like me, he had lost her too.
 
 Amongst all of his companions that have died, his sister was the one that
 haunts him. It was an arranged marriage between the sister and some rich
-merchant from another village, the father was trying to build his own little
-empire by marrying into more money. The sister has rebelled and Manfred's
-father has beaten her. Latter that day she ran away, but had taken a wrong
-path in the dark and ended up in a swamp where she slipped and fell into
+merchant from another village.  Their father was trying to build his own
+little empire by marrying into more money. The sister has rebelled and
+Manfred's father has beaten her. Latter that day she ran away, but had taken a
+wrong path in the dark and ended up in a swamp where she slipped and fell into
 the dark waters.
 
 Manfred had waited a year to exact his revenge.  One cold winter's evening he
 took his father and the merchant out drinking.  When they were too drunk to
-know what was happening, Manfred led the pair to the swamp where he killed
+know what was happening Manfred led the pair to the swamp where he killed
 them and a very messy manor. I think that this is thing that I saw when were
-first met. That deep dark secret and the thirst for blood.
+first met. That dark secret and the thirst for blood.
 
 ## Fin
 
