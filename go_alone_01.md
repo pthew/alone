@@ -25,8 +25,8 @@ times. Surely it’s time I was allowed to rest for good?_
 
 ## Day 1 -- A fight and revelations
 
-_Dream on, dream on, of bloody deeds and death: Fainting, despair; despairing,
-yield thy breath!_
+> _Dream on, dream on, of bloody deeds and death: Fainting, despair; despairing,
+> yield thy breath!_
 
 I have destroyed kingdoms and help forge empires. Today I killed some
 peasants. I tire of this game.
@@ -55,6 +55,7 @@ As Manfred and his companions rested and had dinner more peasants attacked us.
 I suspect that they were out looking for their missing friends and found the
 bodies. They had tracked us to our camp and decided, foolishly, to extact
 some revenge. They were better organised than the rabble we first encountered.
+
 They came at us using the "bulls horn" formation: the main body in the centre
 and smaller detachments to the left and right. These "horns" will swing around
 to envelope us. I have seen this strategy in play many times and managed to
@@ -111,14 +112,14 @@ Damn it! What is happening to me? Again, while I was day dreaming of the past
 I missed something: I did not see Falco approach. He grabbed me and ran into
 the woods. 
 
-Manfred pursued us and managed to catch up just as we entered a rocky
-grove. There was a brief struggle and Manfred wrestled me from Falco's
-grasp. Falco then grabbed a stone and swung it at Manfred several times.
-Manfred managed to dodge the first few but was hit by a glancing blow,
-knocking him to the ground. As Falco approached us intent on finishing off
-Manfred, I focused my power, took control of Manfred's arm and stuck Falco
-through the stone, shattering it and Falco's chest. I could feel X stirring
-and hoped that drawing some of his power did not wake him.
+Manfred pursued us and managed to catch up just as we entered a rocky grove.
+There was a brief struggle and Manfred wrestled me from Falco's grasp. Falco
+then grabbed a large stone and swung it at Manfred several times. Manfred
+managed to dodge the first few but was hit by a glancing blow, knocking him to
+the ground. As Falco approached us intent on finishing off Manfred, I focused
+my power, took control of Manfred's arm and stuck Falco through the stone,
+shattering it and Falco's chest. I could feel X stirring and hoped that
+drawing some of his power did not wake him.
 
 Today just gets better and better. The grove we find ourselves in belongs
 to a troll. She is not happy with us disturbing her sleep and tries to crush
@@ -140,7 +141,7 @@ able to handle my adventures!
 When Manfred starts his story, he has my complete attention. It is always wise
 to learn everything you can about the person who wields you. 
 
-> I was down South hear the ruins that occupy the river delta that feeds into
+> I was down South near the ruins that occupy the river delta that feeds into
 > the Lowgrass Fen. I was alone at the time, and spied a group of travellers
 > heading for the same location. I decided to hide and see who they were, and
 > maybe see what items I might liberate _he laughs._  I watched them set up camp
@@ -236,8 +237,8 @@ death and decided that I should be hidden and never found. I would have liked
 to see his smug face when the children dug me up a century later! The little
 scoundrels were daring each other to enter the haunted fields and dig up a
 souvenir of the battle. The half-orc Sharn got the surprise of her life when I
-started talking to her. She was a bit of a favourite of mine, we were together
-for 30 or so years. I'll tell you about her a bit later. 
+started talking to her. She was a favourite of mine, we were together for 30
+or so years. I'll tell you about her a bit later. 
 
 
 ## Day 7 -- Someone else's dreams
@@ -268,16 +269,32 @@ the dark waters.
 Manfred had waited a year to exact his revenge.  One cold winter's evening he
 took his father and the merchant out drinking.  When they were too drunk to
 know what was happening Manfred led the pair to the swamp where he killed
-them and a very messy manor. I think that this is thing that I saw when were
+them in a very messy manor. I think that this is thing that I saw when were
 first met. That dark secret and the thirst for blood.
 
 ## Fin
 
-The tower falls and I die.
+Manfred wakes early in the morning and picks me up. Taran, who is on watch,
+approaches us but Manfred mumbles about going to the bathroom (not quite the
+words he used) and wanders off along a path in the forest. Taran seems
+confused about what to do and follows us for a minute but then turns back to
+the camp. I hope he has decided to rouse the others as Manfred's mind is
+clouded and confused.  A few seconds after, he stumbles off the path and heads
+further into the forest. I don't know what's up ahead but as we continue
+through the undergrowth the sound of water gets louder. Are we approaching a
+river?
+
+A river and waterfall. The area looks very scenic, but not from the top of the
+cliffs that border the waterfall. I feel Manfred's mind finally focus: In his
+delirium he is still looking for his sister. As he steps off the edge I see
+the swamp below us.
+
+We fall and sink into the bog below the waterfall. Manfred and I rest.
+
 
 ## Epilogue
 
-_To die, to sleep - to sleep - perchance to dream: ay, there’s the rub, for in
-that sleep of death what dreams may come when we have shuffled off this
-mortal coil, must give us pause_
+> _To die, to sleep - to sleep - perchance to dream: ay, there’s the rub, for in
+> that sleep of death what dreams may come when we have shuffled off this
+> mortal coil, must give us pause_
 
