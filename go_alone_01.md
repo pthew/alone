@@ -261,7 +261,7 @@ He had a sister just like me. And just like me, he had lost her too.
 Amongst all of his companions that have died, his sister was the one that
 haunts him. It was an arranged marriage between the sister and some rich
 merchant from another village.  Their father was trying to build his own
-little empire by marrying into more money. The sister has rebelled and
+little empire by marrying her into a rich family. The sister had rebelled and
 Manfred's father has beaten her. Latter that day she ran away, but had taken a
 wrong path in the dark and ended up in a swamp where she slipped and fell into
 the dark waters.
