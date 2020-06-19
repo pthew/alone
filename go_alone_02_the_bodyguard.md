@@ -28,7 +28,6 @@ times. Surely it’s time I was allowed to rest for good?_
 # The Story
 
 ## Day 1 -- A new friend
-[//]: # Ruins
 
 > _Noble heroes, my sword and yours are kin. Good sparks and lustrous, a word, 
 > good metals._ -- All's Well That Ends Well
@@ -62,7 +61,6 @@ protecting? I assume that I will meet them soon.
 
 
 ## Day 2 -- An old friend
-[//]: # Ruins
 
 As Allegra climbs out of the ruins we are met by some of the locals. I have
 heard them over the years looting what remains of the city and, I assume,
@@ -104,7 +102,6 @@ Cassius the Necromancer.
 
 
 ## Day 3 -- Betrayal 
-[//]: # camp 1
 
 Well, this is going to be interesting. Cassius looks like he's only aged a few
 years: a bit of grey in his hair and some wrinkles. But the strange thing is
@@ -124,7 +121,6 @@ this.
 
 
 ## Day 4 -- Memories of the past
-[//]: # camp 2
 
 I often wonder what type of creature I would be if I wasn't in this form. Last
 night it would liked to have been a giant so I could crush everyone in this
@@ -164,7 +160,6 @@ and maybe try to guess what is happening and how long it has been going on.
 
 
 ## Day 5 -- Ghosts
-[//]: # camp 3
 
 Another day of travel and no answers. At breakfast Garth repeats yesterday's
 script, does he get bored giving the same talk each morning?
@@ -196,7 +191,6 @@ soon became a lynch mob and dragged Sven out into the fields. One of the more
 enterprising souls stole me and a few days later sold me to a blacksmith.
 
 ## Day 6 -- Duties
-[//]: # camp 4
 
 Repeat the breakfast scene again.
 
@@ -240,7 +234,6 @@ But she had been lost before the Undead King had arisen and spawned Cassius
 and his kin.
 
 ## Day 7 -- Lost and found
-[//]: # camp 4
 
 Repeat the breakfast scene again. But this time I watch carefully to see if
 Cassius has changed. I didn't notice anything different from the previous
@@ -283,7 +276,6 @@ I guess someone else knows about Cassius.
 
 
 ## Day 8 -- Silent night
-[//]: # camp 6
 
 Garth and Cassius had found a cave for tonight's camp site. We didn't risk
 starting a fire, so we spent an uneasily night in the dark. Allegra and I
